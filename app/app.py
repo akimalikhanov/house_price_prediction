@@ -13,7 +13,7 @@ user_input={'Location': None,
     'Floor': None, 
     'House Type': None}
 
-st.title('Hosue Price Prediction')
+st.title('House Price Prediction')
 st.write("Fill in all boxes and press Submit button to get a predicted price.")
 
 with st.form("my_form"):
